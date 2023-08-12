@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EasyBuy/static/css/main.74c7f9c4.css",
+    "main.js": "/EasyBuy/static/js/main.44638cb9.js",
+    "index.html": "/EasyBuy/index.html",
+    "main.74c7f9c4.css.map": "/EasyBuy/static/css/main.74c7f9c4.css.map",
+    "main.44638cb9.js.map": "/EasyBuy/static/js/main.44638cb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74c7f9c4.css",
+    "static/js/main.44638cb9.js"
+  ]
+}
